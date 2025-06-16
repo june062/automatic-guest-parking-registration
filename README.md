@@ -1,9 +1,9 @@
 # automatic-guest-parking-registration
 
-How It's Made:
+## How It's Made:
 
 
-Optimizations: 
+## Optimizations: 
 
 
-Lessons Learned:
+## Lessons Learned:
